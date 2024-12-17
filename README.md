@@ -47,17 +47,6 @@ Make sure you have the following installed:
 
 ---
 
-## Project Structure
-
-ChristmasTree/
-├── main.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-
----
-
 ## License
 
 This project is licensed under the MIT License.
