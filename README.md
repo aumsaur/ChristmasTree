@@ -49,14 +49,12 @@ Make sure you have the following installed:
 
 ## Project Structure
 
-\```
 ChristmasTree/
 ├── main.jsx
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
-\```
 
 ---
 
